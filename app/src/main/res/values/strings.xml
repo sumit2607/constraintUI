@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">constraintUI</string>
+    <string name="chose_daily_goal">Chose Daily Goal</string>
+    <string name="steady">Steady</string>
+</resources>
